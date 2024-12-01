@@ -55,9 +55,7 @@ a {
 .header-nav-list-item-link:hover,
 .header-nav-list-item-link:focus,
 .header-address-list-item-link:hover,
-.header-address-list-item-link:focus,
-.main-section-one-button:hover,
-.main-section-one-button:focus {
+.header-address-list-item-link:focus {
     color: #404bbf;
 }
 
@@ -100,4 +98,9 @@ a {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #4d5ae5;
     cursor: pointer;
+}
+
+.main-section-one-button:hover,
+.main-section-one-button:focus {
+    background-color: #404BBF
 }

@@ -55,7 +55,9 @@ a {
 .header-nav-list-item-link:hover,
 .header-nav-list-item-link:focus,
 .header-address-list-item-link:hover,
-.header-address-list-item-link:focus {
+.header-address-list-item-link:focus,
+.main-section-one-button:hover,
+.main-section-one-button:focus {
     color: #404bbf;
 }
 
@@ -74,4 +76,28 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+}
+
+.main-section-one {
+    background-color:#2e2f42;
+}
+
+.main-section-one-h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+.main-section-one-button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background-color: #4d5ae5;
+    cursor: pointer;
 }

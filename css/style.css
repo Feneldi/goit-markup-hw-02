@@ -80,7 +80,7 @@ a {
     background-color:#2e2f42;
 }
 
-.main-section-one-h1 {
+.main-section-one-text {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -103,4 +103,17 @@ a {
 .main-section-one-button:hover,
 .main-section-one-button:focus {
     background-color: #404BBF
+}
+
+.main-section-two-list-item-h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.main-section-two-list-item-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }

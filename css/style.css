@@ -117,3 +117,38 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.main-section-three {
+    background-color: #F4F4FD;
+}
+
+.main-section-three-h_two {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize
+}
+
+.main-section-three-list-item {
+    background-color: #FFFFFF;
+}
+
+.main-section-three-list-item-h_three {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.main-section-three-list-item-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
